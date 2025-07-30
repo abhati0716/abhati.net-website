@@ -4,7 +4,7 @@ title: "📬 Get in Touch"
 permalink: /contact/
 author_profile: true
 ---
-<!-- I’m always happy to hear from:
+I’m always happy to hear from:
 
 - Former students
 - Nonprofit organizations
@@ -32,18 +32,18 @@ You can reach me at:
 ### 🔗 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/abhishekbhati/)
-- [![Twitter](https://img.shields.io/badge/Twitter-@bhatinawab-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/bhatinawab) -->
+
 
 I’m always happy to hear from former students, nonprofit organizations, journalists, media professionals, or anyone interested in research, teaching, or consulting collaborations.
 
-Please use the form below, or feel free to reach out via one of the alternative methods.
+<!-- Please use the form below, or feel free to reach out via one of the alternative methods. -->
 
-## Contact Form
+<!-- ## Contact Form -->
 <!-- <div class="notice--info">
 <strong>Note:</strong> To make this form work, you must <a href="https://formspree.io/" target="_blank">create a free Formspree account</a> and replace the placeholder URL in the form's <code>action</code> attribute with your own.
 </div> -->
 
-<form action="https://www.google.com/url?sa=E&source=gmail&q=https://formspree.io/f/your_unique_code" method="POST" class="contact-form">
+<!-- <form action="https://www.google.com/url?sa=E&source=gmail&q=https://formspree.io/f/your_unique_code" method="POST" class="contact-form">
 <div class="form-group">
 <label for="name">Your Name:</label>
 <input type="text" id="name" name="name" required>
@@ -86,4 +86,4 @@ Bowling Green State University
 124 Williams Hall  
 Bowling Green, OH 43402  
 
----
+--- -->
