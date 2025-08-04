@@ -14,7 +14,7 @@ My current research focuses on how growing competition to attract new donations 
 
 <!-- ## Peer Reviewed Articles -->
 
-- Abhishek Bhati and [Diarmuid McDonnell](https://scholar.google.com/citations?user=TaR1F1QAAAAJ&hl=en)(2025)."Message Content and Diversity as an Effective Nonprofit Fundraising Strategy on Social Media." *Nonprofit and Voluntary Sector Quarterly*. [Link](https://journals.sagepub.com/doi/abs/10.1177/08997640241303920){:target="_blank"}
+- Abhishek Bhati and [Diarmuid McDonnell](https://scholar.google.com/citations?user=TaR1F1QAAAAJ&hl=en) (2025)."Message Content and Diversity as an Effective Nonprofit Fundraising Strategy on Social Media." *Nonprofit and Voluntary Sector Quarterly*. [Link](https://journals.sagepub.com/doi/abs/10.1177/08997640241303920){:target="_blank"}
   <details>
   <summary style="list-style: none; cursor: pointer;">
     <span class="btn btn--info" style="width: 100%; display: block; text-align: center; margin-bottom: 1rem; color : blue">
